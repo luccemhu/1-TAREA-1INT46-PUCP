@@ -26,4 +26,4 @@
 | **ubigeo**      | `object`            | Código UBIGEO del lugar donde ocurrió el evento.                            |
 | **case**        | `object`            | Identificador único del caso registrado.                                    |
 
-Enlace a GitHub Pages: 
+Enlace a GitHub Pages: https://luccemhu.github.io/1-TAREA-1INT46-PUCP/
